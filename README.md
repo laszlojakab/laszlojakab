@@ -1,7 +1,13 @@
-### Hi there 👋
+## Welcome ![](https://api.iconify.design/line-md/sun-rising-loop.svg?color=%23ffc107&width=16) [![Buy me a coffee](https://api.iconify.design/line-md/coffee-half-empty-twotone-loop.svg?color=%23ff5f5f&width=16)](https://www.buymeacoffee.com/laszlojakab) [![LinkedIn](https://api.iconify.design/line-md/linkedin.svg?color=%230a66c2&width=16)](https://linkedin.com/in/lászló-jakab-490794211)
+
+<p>
+<a href="https://github.com/laszlojakab"><img align="top" alt="Laszlo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=laszlojakab&show_icons=true&custom_title=Laszlo%27s%20GitHub%20Stats&count_private=true&theme=codeSTACKr" width="50%"></a>
+<!--&nbsp;
+<a href="https://github.com/laszlojakab"><img align="top" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laszlojakab&layout=compact&exclude_repo=snowy-cabin,dotfiles&theme=codeSTACKr&langs_count=8" width="40.8%"></a>-->
+</p>
 
 <!--
-**laszlojakab/laszlojakab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📁 List of active and demo projects at [laszlojakab.com/projects](https://laszlojakab.com/projects)
 
 Here are some ideas to get you started:
 
